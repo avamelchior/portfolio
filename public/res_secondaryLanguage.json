@@ -1,22 +1,22 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Ursula Lopez. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Hei!",
+      "description": "Olen Ava Melchior, ohjelmistokehittäjä Iowassa. Kehittäjänä olen hyvin perehtynyt HTML- ja CSS-ohjelmiin, ja olen tällä hetkellä aloittanut JavaScriptin keskitason / edistyneiden käsitteiden oppimisen. Viimeisin yritykseni on Reactin oppiminen, jota käytettiin tämän verkkosivuston rakentamiseen!",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "Tietoa minusta",
+        "projects": "Hankkeet",
+        "skills": "Taidot",
+        "experience": "Kokemus"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Ghoulish Getaway",
+        "startDate": "2023",
+        "description": "Minulla oli loistava tilaisuus luoda vertaisryhmän kanssa selainpeli, joka vie pelaajan läpi kummituskartanon!",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/animal-shelter/getaway.jpg",
+          "images/portfolio/animal-shelter/getaway2.jpg"
         ],
         "url": "",
         "technologies": [
